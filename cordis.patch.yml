@@ -1,0 +1,11 @@
+# ===========================================================================
+# blank-workbench — DSH bundle patch
+# ===========================================================================
+# 安装：
+#   dsh plugin --profile web add github:lilinshuei/blank-workbench
+#   dsh plugin --profile desktop add github:lilinshuei/blank-workbench
+# ===========================================================================
+
+- insert:
+    - id: blank-workbench
+      name: blank-workbench
